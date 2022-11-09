@@ -4,7 +4,7 @@ The above file shows you the different analysis done on the dataset. They are un
 this is done on the titanic dataset to find the relationship between variables thus they can be used for further in feature engineering.
 
 
-## Screenshots
+
 
 ![App Screenshot](https://miro.medium.com/max/1024/1*5pK8dozXCtg7Ui1tiPdGHw.png)
 
